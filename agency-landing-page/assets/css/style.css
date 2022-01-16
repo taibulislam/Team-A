@@ -1,0 +1,18 @@
+/*font-family: 'Fraunces', serif;*/
+html,
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: 'Barlow', sans-serif;
+   
+}
+.header-wrapper{
+    /* background-color:#3EBFFF;*/
+     background-image: url('../images/desktop/image-header.jpg');  
+     background-size: cover;
+     background-repeat: no-repeat; 
+     background-position:0 -46px ;    
+     height: 800px;  
+}
